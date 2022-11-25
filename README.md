@@ -6,7 +6,8 @@
 
 
 
-[Clique aqui para acessar](https://diogodornas.github.io/Game-JumpMario/)
+[Clique aqui para jogar](https://diogodornas.github.io/Game-JumpMario/)
+(No game, aperte um botão do teclado para pular)
 
 ## Tecnologias
 

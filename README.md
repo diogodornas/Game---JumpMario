@@ -1,6 +1,6 @@
 # Game - Mario Jump
 
-> TEstudo sobre CSS e JavaScript 
+> Estudo sobre CSS e JavaScript 
 
 ![preview](./images/picreadme.png)
 
